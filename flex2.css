@@ -1,0 +1,109 @@
+.firstdiv {
+    display: flex;
+    margin-top: 0px;
+
+}
+
+p {
+    margin-top: 2.3rem;
+    margin-left: 1rem;
+}
+
+.header {
+    display: flex;
+    margin-left: 4rem;
+    margin: 0;
+    padding: 0;
+}
+
+.p1 {
+    border: 1px solid darkblue;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+img {
+    height: 1.5rem;
+    margin-top: 2.3rem;
+
+}
+
+.AB {
+    display: flex;
+}
+
+h6 {
+    margin-top: 2.5rem;
+    margin-left: .3rem;
+}
+
+.selector {
+    margin-left: 50rem;
+    margin-top: 2.3rem;
+}
+
+select {
+    width: 12rem;
+    height: 2rem;
+}
+/* 
+.image {
+    height: 180px;
+} */
+
+.imgmain {
+    width: 200px;
+    height: 180px;
+    object-fit: contain;
+    background-color: grey;
+    /* position: relative; */
+    /* border: 2px solid black; */
+    margin-top: 0%;
+}
+.heart{
+    position: absolute;
+    left: 11.1rem;
+    top: -37px;
+}    
+
+.sale{
+    position: absolute;
+    right: 9.5rem;
+    bottom: 17rem;
+    height: 4rem;
+    width: 4rem;
+    z-index: 1;
+}
+
+.maincard {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 50rem;
+    margin-left: 18rem;
+    flex-wrap: wrap;
+    margin-top: 0;
+    padding-left: 0;
+}
+
+.card1 {
+    text-align: left;
+    margin-top: 0%;
+    margin-left: 18px;
+    margin-bottom: .8rem;
+    margin-right: 25px;
+    /* border: 5px solid brown; */
+    position: relative;
+}
+
+.p2{
+    text-align: left;
+    margin-left: 4px;
+    margin-top: 0px;
+}
+
+h5{
+    margin-left:4px;
+}
+

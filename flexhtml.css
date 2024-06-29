@@ -1,0 +1,114 @@
+body {
+    background-color: gray;
+    margin: 0;
+    border-left: 10px solid white;
+    border-right: 10px solid white;
+    border-top: 10px solid yellow;
+    /* border-bottom: 30px solid yellow; */
+    border-bottom: 10px solid white;
+}
+
+.first {
+    background-color: rgb(197, 194, 194);
+    text-align: center;
+    border-top: 10px solid rgb(202, 194, 194);
+    border-bottom: 10px solid rgb(202, 194, 194);
+    gap: 5px;
+    display: flex;
+    justify-content: center;
+    /* align-items: center;
+    width: 100vw;
+    height: 50px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 20px;
+    padding-right: 20px; */
+
+}
+
+.one {
+    color: rgb(168, 168, 0);
+    /* padding: 1.1rem 6.4rem 1.1rem 6.4rem; */
+    padding: 15px 100px 15px 100px;
+    font-size: 20px;
+    border: 1px solid black;
+
+
+}
+
+.card-main {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    /* flex-wrap: wrap; */
+    margin-top: 15px;
+    /* position: fixed; */
+} 
+
+.card {
+    background-color: white;
+    width: 25rem;
+    height: 75vh;
+    padding: 5px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+}
+
+p {
+    font-size: 20px;
+}
+
+.c1 {
+    width: 25rem;
+    height: 19rem;
+}
+
+.b1{
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    font-size: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 90px;
+    padding-right: 90px;
+    margin-top: 44px;
+}
+
+.b2 {
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    font-size: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 90px;
+    padding-right: 90px;
+    margin-top: 20px;
+}
+
+.b3{
+    /* margin-top: 1%; */
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    font-size: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 90px;
+    padding-right: 90px;
+}
+
+p {
+    margin: 25px 5px 30px;
+}
+
+.footer {
+    background-color: yellow;
+    color: white;
+    font-size: 15px;
+    margin-top: 1rem;
+    border: 1px solid rgb(207, 207, 14);
+}

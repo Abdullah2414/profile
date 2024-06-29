@@ -1,0 +1,100 @@
+.body {
+    background-color: black;
+}
+
+
+.nav {
+    position: sticky;
+    top: 0%;
+    left: 0%;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 4px 0px;
+
+
+}
+
+.nav-img {
+    height: 4rem;
+    width: 4rem;
+    border-radius: 50px;
+    border: 2px solid grey;
+    margin-left: 30px;
+    object-fit: contain;
+}
+
+.nav-list {
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 25px;
+    list-style-type: none;
+
+}
+
+.button{
+    margin-left: 10px;
+    font-size: 15px;
+   background-color: rgb(12, 10, 10) ;
+    color: brown;
+    padding: 5px 5px 5px 5px;
+}
+.mainbody{
+    display: flex;
+    color: white;
+    margin-top: 7rem;
+    justify-content: center;
+    align-items: center;
+
+}
+   
+.p1{
+    font-size: 20px;
+    font-family: sans-serif;
+    text-align: left;
+}
+
+.p2{
+    font-size: 30px;
+    text-align: left;
+}
+
+.p3{
+    font-size: 20px ;
+    text-align: left;
+
+}
+
+.AB{
+    color: brown !important;
+}
+
+.text{
+    margin-right: 20em;
+    margin-left: 4rem;
+    color: white ;
+    
+}
+
+h1{
+   
+    margin-right: 7.5rem;
+}
+
+
+.img2{
+    height: 450px;
+    width: 350px;
+    padding-top: 1.1rem;
+    
+}
+.mainimg{
+    margin-right: 1rem;
+    padding-right: 1rem;
+    padding-left: 1rem;
+    box-shadow: 1px 1px 20px rgb(245, 236, 236);
+    
+}
